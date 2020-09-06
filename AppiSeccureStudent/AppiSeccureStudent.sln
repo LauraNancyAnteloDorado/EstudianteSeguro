@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppiSeccureStudent", "AppiSeccureStudent\AppiSeccureStudent.csproj", "{AFDCF566-7ACE-4C61-9A22-42A571E10E97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFDCF566-7ACE-4C61-9A22-42A571E10E97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFDCF566-7ACE-4C61-9A22-42A571E10E97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFDCF566-7ACE-4C61-9A22-42A571E10E97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFDCF566-7ACE-4C61-9A22-42A571E10E97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B6D741D-D903-4D62-85FA-90F43E4AF19D}
+	EndGlobalSection
+EndGlobal
